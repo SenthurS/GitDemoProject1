@@ -9,6 +9,8 @@ public class Test1 {
 		System.out.println(c);
 		System.out.println("Hello");
 		System.out.println("Hii");
+		System.out.println("how are you");
+		
 	}
 
 }
